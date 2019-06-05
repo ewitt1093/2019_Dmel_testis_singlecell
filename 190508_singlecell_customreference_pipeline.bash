@@ -73,7 +73,3 @@ rm 180731_517_novogene/outs/filtered_gene_bc_matrices/180731_dmel_testis_AG_merg
 
 echo "finished clean up"
 
-
-Rscript seurmo.r
-
-echo "finished seurat and monocle"
